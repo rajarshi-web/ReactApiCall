@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Jokes/>
+    <p>Every page reload a new jokes will apear</p>
     </div>
   )
 }
